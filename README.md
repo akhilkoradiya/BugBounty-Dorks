@@ -268,6 +268,8 @@ site:*.au responsible disclosure
 ```
 
 <p align="center">
-<br>
-<img href="https://ko-fi.com/akhilkoradiya" src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300">
+  <br>
+  <a href="https://ko-fi.com/akhilkoradiya">
+    <img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300">
+  </a>
 </p>
