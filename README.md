@@ -1,2 +1,3 @@
 # BugBounty-Dorks
-Help to find batter TARGET for bug bounty
+
+List of Dorks to search for companies that have a responsible disclosure program or bug bounty program.
